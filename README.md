@@ -1,0 +1,1 @@
+This Neovim configuration uses Packer as plugin manager.
